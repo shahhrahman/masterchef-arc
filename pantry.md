@@ -2,7 +2,7 @@
 
 Everything currently in the kitchen. **This is the source of truth for recipes.** If it is not listed here, assume it is not available.
 
-_Last updated: 2026-10-14_
+_Last updated: 2026-10-15_
 
 ## Ground spices
 
@@ -66,6 +66,7 @@ _Last updated: 2026-10-14_
 - Basmati rice
 - Bread
 - Chapati
+- Brami Italian Protein Pasta, fusilli (four 12 oz bags)
 
 ## Not in stock (commonly assumed, but absent)
 
