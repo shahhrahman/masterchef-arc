@@ -10,6 +10,10 @@ How recipes must be written, and the named cooking modes to choose from. When as
 4. **Only use what is in `pantry.md`.** If a dish really needs something missing, say so before the recipe and offer the closest in-stock substitute.
 5. **State the yield.** Say how many meals the recipe makes and the approximate portion size per meal.
 6. **Keep the ingredient list anyway.** It is useful for prep and shopping, but it is not a substitute for rule 2.
+7. **Pre-mix the spices.** If two or more ground spices, salt, or other dry seasonings go into the pot at the same step, do not list them one by one inside that step. Instead, add a "Spice mix" prep step before any heat is on: measure every spice into one small bowl, with exact amounts, and stir. Then the cooking step says "add the spice mix" and restates its full contents in brackets. Reason: with Sauté on, there is no time to measure five jars one at a time; things burn and stick.
+8. **Minimise prep bowls.** When several ingredients are chopped or measured during prep, group everything that goes into the pot at the same moment into one bowl, and say so explicitly ("chop A, B, and C into the same bowl"). Only ask for a separate bowl when the ingredient truly must go in at a different time, and say why in one phrase. Never instruct "add A" later if A was stacked under B and C in a shared bowl. The target is the fewest vessels possible during prep: one bowl per "add to pot" moment.
+
+Rules 7 and 8 together mean every recipe has a short **Prep** section before the first cooking step, listing each bowl and exactly what is in it.
 
 ## Named approaches
 

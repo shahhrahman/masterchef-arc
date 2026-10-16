@@ -14,6 +14,13 @@ Exact measurements for everything, all from `pantry.md`.
 - 
 - 
 
+## Prep (before any heat is on)
+
+One line per bowl. Group everything that enters the pot at the same moment into the same bowl (approaches.md rules 7 and 8).
+
+- **Bowl 1 (spice mix):** 
+- **Bowl 2:** 
+
 ## Steps
 
 Every step self-contained: restate quantity, setting, temperature, and time inside the step.
