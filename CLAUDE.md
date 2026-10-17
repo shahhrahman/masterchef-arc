@@ -24,7 +24,7 @@ When the user asks for a dish (for example "make me something with chicken thigh
 
 ## Shopping requests
 
-Only when the user asks what to buy. Follow the rules in `store.md`, keep the list to what the recipe needs, in package units, and say what each item is for. Never look up availability online.
+Only when the user explicitly asks what to buy (for example "I'm making X, what should I buy?"). Work out the short list of items the recipe needs that are not in `pantry.md`, check each one's availability at the store in `store.md` on walmart.com, and report it per item in package units with what it is for. Keep the lookup to those few items; the recipe itself is still the main work.
 
 ## Maintenance requests
 
@@ -36,5 +36,5 @@ Only when the user asks what to buy. Follow the rules in `store.md`, keep the li
 
 - Volumes (tsp, tbsp, cups) and package units (lb, oz, cans). No grams, there is no scale.
 - Temperatures in °F.
-- Do not search the web or browse any store site for a cooking request. These files are the whole picture; the effort goes into the recipe.
+- Do not search the web or browse any store site during a recipe request. These files are the whole picture, and the effort goes into the recipe. The one exception is an explicit shopping request (see Shopping requests).
 - Do not ask clarifying questions for routine requests. Make a sensible choice, state it in one line, and proceed. Ask only when the request cannot be fulfilled from the pantry.

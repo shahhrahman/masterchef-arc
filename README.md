@@ -37,5 +37,5 @@ The model should:
 - Treat `pantry.md` as the source of truth for what exists. Do not assume common staples (onion, garlic, tomatoes, butter) unless they are listed.
 - Exact measurements for every ingredient, including salt, water, and oil. The cook does not cook by feel.
 - Every step must be self-contained: restate the quantity, temperature, pressure setting, and time inside the step. The cook should never scroll back to the ingredient list.
-- Shopping is the exception. Anything the cook is told to buy must follow `store.md`: a standard American supermarket, no specialty-store trips, no online lookups.
+- Shopping is the exception. Anything the cook is told to buy must follow `store.md`: a standard American supermarket, no specialty-store trips. Check availability on walmart.com only when the cook explicitly asks what to buy.
 - If something in these files is ambiguous or missing, ask one short question before writing the recipe.
