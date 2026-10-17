@@ -26,6 +26,15 @@ Rules 7 and 8 together mean every recipe has a short **Prep** section before the
 - **Output:** a recipe that stores and reheats well across 3 days. Mention how to store and reheat.
 - **Scaling:** size everything for 6 portions. Respect the Instant Pot max-fill line for the 8 qt model.
 
+### Weekend project
+
+- **Goal:** something that tastes noticeably better than a Hands-off batch, for a weekend or any day with free time. Flavor comes first. Extra effort is welcome when it buys flavor (browning, marinating, cooking in stages), not for its own sake.
+- **Pot / appliance:** Instant Pot first, in stages when the dish benefits: Sauté onions until browned, pressure cook, then reduce or finish on Sauté. The air fryer, rice cooker, and microwave may each take a step alongside it (for example crisp the protein in the air fryer while the rice cooker makes rice). Stovetop and oven stay opt-in per `kitchen.md`.
+- **Effort:** moderate, and every bit of it spelled out. Chopping, marinating, browning in batches, a second cooking stage, and a finishing step are all fine. A stirred stage is fine if it is under 10 minutes and the step says how long. Still a home cook's dish: no deep frying, no dough from scratch, no technique that needs practice to get right.
+- **Time:** up to about 45 minutes hands-on. A marinade may start hours ahead or the night before; say so at the top, with the minimum useful marinating time. Total time does not matter.
+- **Output:** the universal rules still apply: exact measurements, self-contained steps, a spice mix per stage, one bowl per add-to-pot moment (more bowls than usual is fine when there are more stages). Say how it stores and reheats. If a part is best fresh (a crisped topping, a garnish), say which part and how to redo it on days 2 and 3.
+- **Scaling:** 6 portions, same as Hands-off batch, unless the request says otherwise. Respect the Instant Pot max-fill line for the 8 qt model.
+
 ### (Add more approaches below)
 
 Template for a new approach:
@@ -41,4 +50,4 @@ Template for a new approach:
 - **Scaling:**
 ```
 
-Examples you might add later: a "Weekend project" approach for sophisticated dishes with more active time, a "Quick single meal" approach for one serving in under 20 minutes, or an "Air fryer protein" approach for a side of chicken or tofu.
+Examples you might add later: a "Quick single meal" approach for one serving in under 20 minutes, or an "Air fryer protein" approach for a side of chicken or tofu.

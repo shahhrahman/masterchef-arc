@@ -10,7 +10,7 @@ Context files for LLM-assisted cooking. Paste or attach these before asking for 
 | `kitchen.md` | Appliances and measuring tools available | Rarely |
 | `pantry.md` | Every ingredient currently in the kitchen | Often (after each grocery run or cook) |
 | `approaches.md` | Universal recipe rules, plus named cooking modes (time, effort, batch size) | Occasionally (when a new mode is added) |
-| `store.md` | The one grocery store within walking distance, and what can realistically be bought there | Rarely (the lists at the bottom grow as you shop) |
+| `store.md` | The one grocery store within walking distance, and the rules for anything that has to be bought | Rarely |
 | `recipes/` | One file per cooking session: the recipe as cooked, plus a verdict afterward | Every cook |
 | `CLAUDE.md` | Auto-loaded by Claude Code. Pulls in the files above and tells the model how to respond | Rarely |
 
@@ -37,5 +37,5 @@ The model should:
 - Treat `pantry.md` as the source of truth for what exists. Do not assume common staples (onion, garlic, tomatoes, butter) unless they are listed.
 - Exact measurements for every ingredient, including salt, water, and oil. The cook does not cook by feel.
 - Every step must be self-contained: restate the quantity, temperature, pressure setting, and time inside the step. The cook should never scroll back to the ingredient list.
-- Anything the cook is told to buy must be available at the store in `store.md`. Assume a standard American supermarket, not an Indian or Asian grocer.
+- Shopping is the exception. Anything the cook is told to buy must follow `store.md`: a standard American supermarket, no specialty-store trips, no online lookups.
 - If something in these files is ambiguous or missing, ask one short question before writing the recipe.
