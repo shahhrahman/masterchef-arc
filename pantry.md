@@ -55,6 +55,7 @@ _Last updated: 2026-10-18_
 - Cilantro
 - Lemons
 - Red onions (3 lb bag, full)
+- Serrano peppers (two 4 oz bags)
 
 ## Frozen
 
