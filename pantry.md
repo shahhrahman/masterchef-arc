@@ -40,15 +40,17 @@ _Last updated: 2026-10-18_
 
 - Boneless skinless chicken thighs (2 lb)
 - Frozen pompano (thinly sliced)
-- Eggs
+- Eggs (18-count carton)
 - Firm tofu
 - Yogurt
 - Cottage cheese
+- Unsalted butter (8 oz)
 
-## Nuts
+## Nuts and dried fruit
 
 - Cashews
 - Peanuts
+- Pitted prunes (two 16 oz bags)
 
 ## Fresh produce
 
@@ -56,6 +58,7 @@ _Last updated: 2026-10-18_
 - Lemons
 - Red onions (3 lb bag, full)
 - Serrano peppers (two 4 oz bags)
+- Grape tomatoes (two 10 oz packages)
 
 ## Frozen
 
@@ -73,8 +76,8 @@ _Last updated: 2026-10-18_
 ## Not in stock (commonly assumed, but absent)
 
 - Fresh garlic, fresh ginger
-- Tomatoes (fresh or canned)
-- Butter, ghee
+- Canned tomatoes
+- Ghee
 - Sugar
 
 _Move items between sections as you shop and cook. Update the date at the top each time._
