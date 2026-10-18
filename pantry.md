@@ -2,7 +2,7 @@
 
 Everything currently in the kitchen. **This is the source of truth for recipes.** If it is not listed here, assume it is not available.
 
-_Last updated: 2026-10-17_
+_Last updated: 2026-10-18_
 
 ## Ground spices
 
@@ -38,8 +38,7 @@ _Last updated: 2026-10-17_
 
 ## Proteins and dairy
 
-- Boneless skinless chicken thighs (4 lb)
-- Beef stew meat, cubed (3 lb)
+- Boneless skinless chicken thighs (2 lb)
 - Frozen pompano (thinly sliced)
 - Eggs
 - Firm tofu
@@ -55,9 +54,7 @@ _Last updated: 2026-10-17_
 
 - Cilantro
 - Lemons
-- Yellow onions (3 lb bag)
-- Serrano peppers (three 4 oz bags)
-- Petite yellow potatoes (1.5 lb bag, skin-on)
+- Red onions (3 lb bag, full)
 
 ## Frozen
 
