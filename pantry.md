@@ -65,6 +65,8 @@ _Last updated: 2026-10-18_
 - Chopped spinach
 - Chopped onions
 - Mixed vegetables (carrots, green beans, corn, peas)
+- Butternut squash cubes (10 oz)
+- Cut okra (12 oz)
 
 ## Grains and breads
 
