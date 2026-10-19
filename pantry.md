@@ -71,7 +71,7 @@ _Last updated: 2026-10-18_
 ## Grains and breads
 
 - Basmati rice
-- Bread
+- Multigrain bread (24 oz loaf, expires 2026-10-27)
 - Chapati
 - Brami Italian Protein Pasta, fusilli (four 12 oz bags)
 
