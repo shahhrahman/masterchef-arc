@@ -21,7 +21,7 @@ Rules 7 and 8 together mean every recipe has a short **Prep** section before the
 ### Hands-off batch
 
 - **Goal:** cook once, eat for 3 days (6 meals: lunch and dinner).
-- **Pot:** one pot only, the 8 qt Instant Pot. No second pan, no separate stovetop step.
+- **Pot:** the 8 qt Instant Pot, plus the rice cooker when the meal has plain rice (see `kitchen.md`). No second pan, no separate stovetop step.
 - **Effort:** minimal babysitting. Load, set, walk away. A short Sauté step at the start is acceptable; constant stirring is not.
 - **Time:** prefer under 15 minutes of hands-on time. Total time is less important than hands-on time.
 - **Output:** a recipe that stores and reheats well across 3 days. Mention how to store and reheat.
