@@ -51,7 +51,7 @@ Bowl 4, everything that cooks under pressure:
 
 Straight into the pot:
 - 3 tbsp mustard oil
-- 3/4 cup water
+- 1 1/4 cups water
 
 To finish, off heat:
 - 1/2 cup yogurt
@@ -65,7 +65,7 @@ To finish, off heat:
 - **Bowl 2 (onions), medium bowl:** peel and chop 2 medium red onions into roughly 1/2-inch pieces, about 2 cups. Chop 2 serranos small and add them on top.
 - **Bowl 3 (paste and spice mix), small bowl:** 1 1/2 tbsp ginger-garlic paste. Measure onto it: 1 1/2 tsp coriander powder, 1 tsp cumin powder, 1 tsp red chili powder, 1 tsp garam masala, 1/2 tsp turmeric, 1/2 tsp ground black pepper, 2 1/2 tsp salt.
 - **Bowl 4 (pressure stage), large bowl:** pat the tofu block dry with a paper towel and cut it into 3/4-inch cubes. Open the chickpea can, drain it, rinse the chickpeas under the tap, and add them. Halve the grape tomatoes and add them. Add 2 cups frozen spinach and 1/4 cup cashews.
-- **By the pot:** 3 tbsp mustard oil in the measuring cup, 3/4 cup water in a glass.
+- **By the pot:** 3 tbsp mustard oil in the measuring cup, 1 1/4 cups water in a glass.
 
 ## Steps
 
@@ -75,7 +75,7 @@ Every step self-contained: restate quantity, setting, temperature, and time insi
 2. Add Bowl 1 [1/2 tsp mustard seeds, 2 dried red chilies, 1 bay leaf]. Stir for 30 seconds, until the seeds crackle.
 3. Add Bowl 2 [2 chopped red onions, about 2 cups, and 2 chopped serranos]. Sauté on Normal for 6 minutes, stirring every 2 minutes and scraping the bottom each time. The onions soften and turn golden at the edges.
 4. Add Bowl 3 [1 1/2 tbsp ginger-garlic paste with 1 1/2 tsp coriander powder, 1 tsp cumin powder, 1 tsp red chili powder, 1 tsp garam masala, 1/2 tsp turmeric, 1/2 tsp black pepper, 2 1/2 tsp salt]. Stir for 1 minute.
-5. Add 3/4 cup water and scrape the bottom for 30 seconds so nothing stays stuck. Add Bowl 4 [14 oz cubed tofu, one 15 oz can of chickpeas drained, 10 oz halved grape tomatoes, 2 cups frozen spinach, 1/4 cup cashews]. Stir once, gently, so the tofu does not break. Press Cancel.
+5. Add 1 1/4 cups water and scrape the bottom for 30 seconds so nothing stays stuck. It will look like barely any liquid once the solids go in; the spinach and tomatoes release more as they heat, and this amount gives the 8 qt a safe margin to reach pressure. Add Bowl 4 [14 oz cubed tofu, one 15 oz can of chickpeas drained, 10 oz halved grape tomatoes, 2 cups frozen spinach, 1/4 cup cashews]. Stir once, gently, so the tofu does not break. Press Cancel.
 6. Lid on, valve to Sealing. Pressure Cook, High, 4 minutes. When it beeps, do nothing for 10 minutes (natural release), then turn the valve to Venting and wait until the pin drops (about 1 minute). Open.
 7. Press Cancel and wait 2 minutes so the curry stops bubbling. Add 1/2 cup yogurt and 1/4 cup chopped cilantro. Fold gently for 30 seconds. Done.
 8. Rice: when the cooker has been on Warm for at least 10 minutes, open it, add 1 tbsp unsalted butter, and fluff with the spatula for 30 seconds so the butter melts through. Portion into 4 containers, about 1 2/3 cups rice each (1 level cup plus a heaped serving spoon), with about 1 3/4 cups curry alongside or on top.
