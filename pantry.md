@@ -2,7 +2,7 @@
 
 Everything currently in the kitchen. **This is the source of truth for recipes.** If it is not listed here, assume it is not available.
 
-_Last updated: 2026-10-18_
+_Last updated: 2026-11-12_
 
 ## Ground spices
 
@@ -57,8 +57,6 @@ _Last updated: 2026-10-18_
 - Cilantro
 - Lemons
 - Red onions (3 lb bag, full)
-- Serrano peppers (two 4 oz bags)
-- Grape tomatoes (two 10 oz packages)
 
 ## Frozen
 
@@ -67,6 +65,7 @@ _Last updated: 2026-10-18_
 - Mixed vegetables (carrots, green beans, corn, peas)
 - Butternut squash cubes (10 oz)
 - Cut okra (12 oz)
+- Frozen shrimp
 
 ## Grains and breads
 
@@ -81,5 +80,7 @@ _Last updated: 2026-10-18_
 - Canned tomatoes
 - Ghee
 - Sugar
+- Serrano peppers
+- Grape tomatoes
 
 _Move items between sections as you shop and cook. Update the date at the top each time._
