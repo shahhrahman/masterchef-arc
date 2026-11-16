@@ -55,7 +55,6 @@ _Last updated: 2026-11-15_
 
 ## Fresh produce
 
-- Cilantro
 - Parsley
 - Lemons
 - Limes
@@ -88,5 +87,6 @@ _Last updated: 2026-11-15_
 - Sugar
 - Grape tomatoes
 - Frozen shrimp
+- Cilantro
 
 _Move items between sections as you shop and cook. Update the date at the top each time._
