@@ -2,7 +2,7 @@
 
 Everything currently in the kitchen. **This is the source of truth for recipes.** If it is not listed here, assume it is not available.
 
-_Last updated: 2026-11-12_
+_Last updated: 2026-11-15_
 
 ## Ground spices
 
@@ -40,6 +40,7 @@ _Last updated: 2026-11-12_
 
 - Boneless skinless chicken thighs (2 lb)
 - Frozen pompano (thinly sliced)
+- Frozen salmon
 - Eggs (18-count carton)
 - Firm tofu
 - Yogurt
@@ -55,17 +56,22 @@ _Last updated: 2026-11-12_
 ## Fresh produce
 
 - Cilantro
+- Parsley
 - Lemons
+- Limes
 - Red onions (3 lb bag, full)
+- Roma tomatoes
+- Serrano peppers
+- Anaheim peppers
 
 ## Frozen
 
 - Chopped spinach
 - Chopped onions
 - Mixed vegetables (carrots, green beans, corn, peas)
+- Pepper and onion mixed vegetable blend
 - Butternut squash cubes (10 oz)
 - Cut okra (12 oz)
-- Frozen shrimp
 
 ## Grains and breads
 
@@ -80,7 +86,7 @@ _Last updated: 2026-11-12_
 - Canned tomatoes
 - Ghee
 - Sugar
-- Serrano peppers
 - Grape tomatoes
+- Frozen shrimp
 
 _Move items between sections as you shop and cook. Update the date at the top each time._
